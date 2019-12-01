@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Robert/Downloads/DebrisHunters-20191025T195133Z-001/DebrisHunters/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
