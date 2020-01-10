@@ -1,4 +1,4 @@
-# debris-hunters
+# Debris Hunters
 Debris Hunters Game
 
 ![Screenshot 1](SC1.png)
