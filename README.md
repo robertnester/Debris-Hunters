@@ -1,8 +1,8 @@
 # Debris Hunters Game
 
-Alpha version (without NORAD satellite debris) can be played at [debrishunters.co](https://www.debrishunters.co/)
+Alpha version can be played at [debrishunters.co](https://www.debrishunters.co/)
 
-## Latest version screenshots
+## Gameplay
 ![Screenshot 1](screenshots/SC1.png)
 
 ![Screenshot 2](screenshots/SC2.png)
