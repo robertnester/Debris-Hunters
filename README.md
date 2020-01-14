@@ -1,6 +1,6 @@
 # Debris Hunters Game
-
-Alpha version can be played at [debrishunters.co](https://www.debrishunters.co/)
+## Overview
+[Our Offical NASA Project Page](https://2019.spaceappschallenge.org/challenges/stars/orbital-scrap-metal-the-video-game/teams/the-debris-hunters/project) includes the specific challenge, overview of our project, languages/software used, references, and [playable alpha version](https://www.debrishunters.co/)!
 
 ## Gameplay
 ![Screenshot 1](screenshots/SC1.png)
